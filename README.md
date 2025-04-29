@@ -11,8 +11,8 @@
 ###
 
 <p align="left">I'm passionate about Frontend Development and currently working hard to master HTML, CSS, JavaScript, React, Redux, and beyond.<br>I love building clean, user-friendly interfaces and I'm constantly pushing myself to learn and improve.<br>Currently, I'm on a journey to become a professional frontend developer, one step at a time.<br>Let's connect and build something amazing!</p>
-<span display:flex>
-<h1>Connect with me :- </h1> <h3>+91 99783011</h3> </span>
+<h1>Connect with me :- </h1>
+<span> Ph no :- +91 9199783011        Email id:- harshprasad1204@gmail.com </span>
 
 ###
 

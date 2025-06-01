@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm passionate about **Frontend Development** and currently working hard to master **HTML, CSS, JavaScript, TailwindCSS, BootStrap, Material-Ui, React, Redux, and beyond**.<br>I love building clean, user-friendly interfaces and I'm constantly pushing myself to learn and improve.<br>Currently, I'm on a journey to become a professional frontend developer, one step at a time.<br>Let's connect and build something amazing!</p>
+<p align="left">I'm passionate about Frontend Development and currently working hard to master HTML, CSS, JavaScript, TailwindCSS, BootStrap, Material-Ui, React, Redux, and beyond.<br>I love building clean, user-friendly interfaces and I'm constantly pushing myself to learn and improve.<br>Currently, I'm on a journey to become a professional frontend developer, one step at a time.<br>Let's connect and build something amazing!</p>
 <h1>Connect with me :- </h1>
 
 - PhNo:->  +91 9199783011

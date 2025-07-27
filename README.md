@@ -66,7 +66,7 @@ Let’s connect and create something amazing!
 ---
 
 
-## 🐍 GitHub Snake Contribution Graph
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-P30/Harsh-P30/output/github-snake-dark.svg" />

@@ -1,8 +1,8 @@
-﻿![header image](https://img.freepik.com/free-photo/anime-style-mythical-dragon-creature_23-2151112866.jpg)
+﻿<img src="https://img.freepik.com/free-photo/anime-style-mythical-dragon-creature_23-2151112866.jpg" alt="header image" style="width:100%; height:auto;" />
 
 ---
 
-## 👋 Hi there! I'm Harsh Prasad
+# 👋 Hi there! I'm Harsh Prasad
 
 I'm a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web applications.  
 Currently sharpening my skills in:

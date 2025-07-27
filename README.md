@@ -4,8 +4,7 @@
 
 # 👋 Hi there! I'm Harsh Prasad
 
-I'm a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web applications.  
-Currently sharpening my skills in:
+I'm a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web applications. Currently sharpening my skills in:
 
 `HTML` • `CSS` • `JavaScript` • `React` • `Redux` • `TailwindCSS` • `Bootstrap` • `Material-UI` • and more.
 

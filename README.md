@@ -16,8 +16,8 @@
 - PhNo:->  +91 9199783011
 - Email Id:->   harshprasad1204@gmail.com
 
-- Portfolio 
-<a href=" https://portfolio-harsh-cyan.vercel.app/" target="_blank" rel="noreferrer">Portfolio</a>
+## Portfolio
+ <a href=" https://portfolio-harsh-cyan.vercel.app/">Portfolio</a>
 
 
 

@@ -4,9 +4,9 @@
 
 # 👋 Hi there! I'm Harsh Prasad
 
-I'm a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web applications. Currently sharpening my skills in:
+I'm a passionate **Software Engineer** focused on building clean, responsive, and user-friendly web applications. Currently sharpening my skills in:
 
-`HTML` • `CSS` • `JavaScript` • `React` • `Redux` • `TailwindCSS` • `Bootstrap` • `Material-UI` • and more.
+• `Cpp` • `C` • `Python` • `HTML` • `CSS` • `JavaScript` • `React` • `Redux` • `TailwindCSS` • `Bootstrap` • `Material-UI` • and more.
 
 I'm on a mission to become a **professional frontend engineer**, one step at a time.  
 Let’s connect and create something amazing!
@@ -73,3 +73,4 @@ Let’s connect and create something amazing!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-P30/Harsh-P30/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Harsh-P30/Harsh-P30/output/github-snake.svg" />
 </picture>
+

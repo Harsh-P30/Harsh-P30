@@ -63,17 +63,6 @@ Let's connect and create something amazing!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-P30&theme=react-dark&area=true&radius=16&cache_seconds=86400" height="300" />
 </p>
 
----
-<img src="https://img.freepik.com/free-photo/anime-style-mythical-dragon-creature_23-2151112866.jpg"
-     alt="header image"
-     style="width:100%; height:auto;" />
-
-<!-- 🐦 Flying Birds -->
-<p align="center">
-  <img src="./assets/flying-birds.gif"
-       width="100%"
-       alt="Flying birds animation" />
-</p>
 
 ---
 

@@ -64,15 +64,20 @@ Let's connect and create something amazing!
 </p>
 
 ---
+<img src="https://img.freepik.com/free-photo/anime-style-mythical-dragon-creature_23-2151112866.jpg"
+     alt="header image"
+     style="width:100%; height:auto;" />
+
 <!-- 🐦 Flying Birds -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="80" alt="Flying bird" />
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="80" alt="Flying bird" />
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="80" alt="Flying bird" />
+  <img src="./assets/flying-birds.gif"
+       width="100%"
+       alt="Flying birds animation" />
 </p>
 
+---
 
-
+# 👋 Hi there! I'm Harsh Prasad
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-P30/Harsh-P30/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-P30/Harsh-P30/output/github-snake.svg" />

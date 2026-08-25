@@ -64,7 +64,12 @@ Let's connect and create something amazing!
 </p>
 
 ---
-
+<!-- 🐦 Flying Birds -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="80" alt="Flying bird" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="80" alt="Flying bird" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="80" alt="Flying bird" />
+</p>
 
 
 

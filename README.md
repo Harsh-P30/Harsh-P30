@@ -65,11 +65,7 @@ Let's connect and create something amazing!
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-P30&theme=react-dark&area=true&radius=16&cache_seconds=86400" height="300" />
 </p>
-
-
 ---
-
-# 👋 Hi there! I'm Harsh Prasad
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-P30/Harsh-P30/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-P30/Harsh-P30/output/github-snake.svg" />

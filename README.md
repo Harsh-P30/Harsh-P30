@@ -56,6 +56,9 @@ Let's connect and create something amazing!
 </p>
 
 ---
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Harsh-P30&hide_border=true)
 
 ## 📈 Activity Graph
 
